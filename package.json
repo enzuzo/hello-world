@@ -1,0 +1,22 @@
+{
+  "name": "@enzuzo/hello-world",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/enzuzo/hello-world.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/enzuzo/hello-world/issues"
+  },
+  "homepage": "https://github.com/enzuzo/hello-world#readme",
+  "description": "",
+  "publishConfig": {
+    "@enzuzo:registry": "https://npm.pkg.github.com"
+  }
+}
